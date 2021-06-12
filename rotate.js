@@ -7,7 +7,7 @@ return arr;
 }
 
 a=[1,2,3,4,5]
-var d=prompt(" ")
-var n=prompt(" ")
+var d=2
+var n=5
 
-console.log(rotate(...(a,d,n)));
+console.log(rotate((a,d,n)));
